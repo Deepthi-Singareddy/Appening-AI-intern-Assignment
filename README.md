@@ -190,4 +190,4 @@ python tests_sample_queries.py
 - **Typed Schemas:** Full validation using Pydantic v2.
 
 ---
-*Developed for AI Engineer Assessment*
+*Developed for AI Engineer Assignment*
